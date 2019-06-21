@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to update a Boolean field using the ASPxCheckBox in a DataItem template
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2313/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to perform "inline editing" for boolean-type fields using ASPxCheckBox in a DataItem template.<br />
